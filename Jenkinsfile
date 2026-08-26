@@ -1,4 +1,3 @@
-#Change
 pipeline {
 agent any
 stages {
